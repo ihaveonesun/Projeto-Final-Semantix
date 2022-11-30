@@ -155,3 +155,5 @@ anotações.txt
 anotações.docx
 ~$otações.docx
 ~WRL0797.tmp
+*.tmp
+.dados/
